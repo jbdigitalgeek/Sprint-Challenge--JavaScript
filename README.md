@@ -39,7 +39,6 @@ Edit this document to include your answers after each question. Make sure to lea
 3. What is closure?
 
 --a closure is a function, the function body can reach outside of the function to get information.
-
 4. Describe the four rules of the 'this' keyword.
 
 --Window/Global, Explicit binding, Implicit Binding, New binding
